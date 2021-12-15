@@ -37,14 +37,25 @@ import java.util.Map;
  */
 
 /**
- * The controller fro Plant Diary REST endpoints and web UI ALSO THIS COMMENT FOR TRAININGTEST
+ * The controller fro Plant Diary REST endpoints and web UI ALSO THIS COMMENT FOR InLineTESTENV
  * <p>
- * This class handles the CRUD operations for My Plant Diary specimens, via HTTP actions. ALSO THIS COMMENT FOR TRAININGTEST
+ * This class handles the CRUD operations for My Plant Diary specimens, via HTTP actions. ALSO THIS COMMENT FOR InLineTESTENV
  * </p>
  * <p>
- * This class also serves HTML based web pages, for UI interactions with plant specimens. ALSO THIS COMMENT FOR TRAININGTEST
+ * This class also serves HTML based web pages, for UI interactions with plant specimens. ALSO THIS COMMENT FOR InLineTESTENV
  * </p>
  * @author Ozhan GULALTEST
+ */
+
+/**
+ * The controller fro Plant Diary REST endpoints and web UI ALSO THIS COMMENT FOR InLineTESTENV
+ * <p>
+ * This class handles the CRUD operations for My Plant Diary specimens, via HTTP actions. ALSO THIS COMMENT FOR InLineTESTENV
+ * </p>
+ * <p>
+ * This class also serves HTML based web pages, for UI interactions with plant specimens. ALSO THIS COMMENT FOR InLineTESTENV
+ * </p>
+ * @author Yagmur AVSAR
  */
 @Controller
 public class PlantDiaryController {
